@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Coderkidd99
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning C#,Javascript,React, Asp.Net MVC, WebApi, WASM
-- 💞️ I’m looking to collaborate on any project that i find will help elevate me to be my best.
+- 🌱 I’m currently learning C#,Javascript,Typescript,React,Asp.Net MVC, WebApi, WASM
 - 📫 reach me at BekimBurimi84@gmail.com
 
 <!---
