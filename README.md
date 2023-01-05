@@ -1,4 +1,4 @@
 Full Stack software Developer
 C# .Net, Javascript/Typescript with ReactJS
-- 📫 reach me at BekimBurimi84@gmail.com
+- 📫 Reach me @ BekimBurimi84@gmail.com || BekimBurimi718@gmail.com
 
