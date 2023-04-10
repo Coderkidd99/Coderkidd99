@@ -1,19 +1,22 @@
-# Full Stack Software Developer
+# Bekim Burimi - Full Stack Software Developer
 
-**Skills** 
+## Skills
+**As a Full Stack Software Developer, I have experience in:**
 
-Specializing in the Frontend UI
+* Frontend Development: Specializing in ReactJS as my library of choice
+* Backend Development: C# .NET
+* Languages: JavaScript | TypeScript | HTML5 | CSS3
+* Frameworks: Vite, Next
+* CSS Framework: Tailwind CSS
 
-C# .Net, JavaScript | TypeScript, Reactjs | Vite | Next | Tailwind CSS | HTML5 | CSS3
+## Contact Me
 
-📫 Reach me @
+Feel free to reach out to me with any inquiries or opportunities:
 
-  **BekimBurimi84@gmail.com** || **BekimBurimi718@gmail.com**
-  
-  ## Linkedin
-  **https://www.linkedin.com/in/bekimburimi/**
-  
-  # **My Portfolio Site**
-  **http://www.burimi.tech**
+**Email: BekimBurimi84@gmail.com || BekimBurimi718@gmail.com**
+
+**LinkedIn: https://www.linkedin.com/in/bekimburimi/**
+
+**Portfolio Site: http://www.burimi.tech**
 
 **Phone: (917)512-2880**
