@@ -1,4 +1,4 @@
-#Full Stack software Developer
+# Full Stack software Developer
 
 **Skills** 
 C# .Net, JavaScript | TypeScript, Reactjs | Vite | Next | Tailwind CSS | HTML5 | CSS3
