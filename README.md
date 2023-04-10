@@ -7,7 +7,7 @@
 * Backend Development: C# .NET
 * Languages: JavaScript | TypeScript | HTML5 | CSS3
 * Frameworks: Vite, Next
-* CSS Framework: Tailwind CSS
+* CSS Framework: Tailwind CSS, Bootstrap, SASS
 
 ## Contact Me
 
