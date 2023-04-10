@@ -20,3 +20,5 @@ Feel free to reach out to me with any inquiries or opportunities:
 **Portfolio Site: http://www.burimi.tech**
 
 **Phone: (917)512-2880**
+
+**New York City Resident - U.S Citizen**
