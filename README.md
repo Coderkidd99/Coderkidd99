@@ -21,4 +21,4 @@ Feel free to reach out to me with any inquiries or opportunities:
 
 **Phone: (917)512-2880**
 
-**New York City Resident - U.S Citizen**
+** *New York City Resident - U.S Citizen* **
