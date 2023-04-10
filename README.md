@@ -1,6 +1,9 @@
-# Full Stack software Developer
+# Full Stack Software Developer
 
 **Skills** 
+
+Specializing in the Frontend UI
+
 C# .Net, JavaScript | TypeScript, Reactjs | Vite | Next | Tailwind CSS | HTML5 | CSS3
 
 - 📫 Reach me @
