@@ -3,7 +3,7 @@
 ## Skills
 **As a Full Stack Software Developer, I have experience in:**
 
-* Frontend Development: Specializing in ReactJS as my library of choice
+* Frontend Development: Specializing in ReactJS
 * Backend Development: C# .NET
 * Languages: JavaScript | TypeScript | HTML5 | CSS3
 * CSS Framework: Tailwind CSS, Bootstrap, SASS
@@ -20,4 +20,4 @@ Feel free to reach out to me with any inquiries or opportunities:
 
 **Phone: (917)512-2880**
 
-** *New York City Resident - U.S Citizen* **
+** *U.S Citizen* **
