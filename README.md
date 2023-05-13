@@ -3,9 +3,9 @@
 ## Skills
 **As a Full Stack Software Developer, I have experience in:**
 
-* Frontend Development: Specializing in ReactJS
-* Backend Development: C# .NET
-* Languages: JavaScript | TypeScript | HTML5 | CSS3
+* Frontend Development: Specializing in ReactJS, Wordpress,Shjopify
+* Backend Development: Node, Express, PHP, C# - ASP.NET
+* Languages: JavaScript | TypeScript | PHP | HTML5 | CSS3
 * CSS Framework: Tailwind CSS, Bootstrap, SASS
 
 ## Contact Me
