@@ -7,6 +7,7 @@
 * Backend Development: Node, Express, PHP, C# - ASP.NET
 * Languages: JavaScript | TypeScript | PHP | HTML5 | CSS3
 * CSS Framework: Tailwind CSS, Bootstrap, SASS
+* Database: PostgreSQL, MySQL, MSSQLServer
 
 ## Contact Me
 
