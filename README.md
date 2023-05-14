@@ -1,4 +1,4 @@
-# Bekim Burimi - Front End Web Developer
+# Bekim Burimi - Web Developer
 
 ## Skills
 **As a Full Stack Software Developer, I have experience in:**
