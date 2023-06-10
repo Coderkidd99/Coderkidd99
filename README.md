@@ -4,8 +4,8 @@
 **As a Full Stack Software Developer, I have experience in:**
 
 * Frontend Development: Specializing in ReactJS
-* Backend Development: Node, Express, PHP, C# - ASP.NET
-* Languages: JavaScript | TypeScript | PHP | HTML5 | CSS3
+* Backend Development: Node, Express, C# - ASP.NET
+* Languages: JavaScript | TypeScript | HTML5 | CSS3
 * CSS Framework: Tailwind CSS, Bootstrap, SASS
 * Database: PostgreSQL, MySQL, MSSQLServer
 
